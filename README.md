@@ -2,12 +2,6 @@
 
 > Uno sparatutto zombie survival "Twin-Stick" in stile arcade, sviluppato con JavaScript e Three.js.
 
-![Game Status](https://img.shields.io/badge/Status-Playable-green)
-![Tech](https://img.shields.io/badge/Tech-Three.js-white)
-![Support](https://img.shields.io/badge/Support-Desktop%20%7C%20Mobile%20%7C%20Gamepad-blue)
-
-**[🎮 GIOCA ORA (Clicca Qui)](https://TUO_NOME_UTENTE.github.io/NOME_REPO/)**
-
 ## 🌟 Caratteristiche
 * **Grafica 3D Arcade:** Visuale isometrica con luci dinamiche, ombre e particellari al neon.
 * **Cross-Platform:** Funziona su PC, Smartphone e Tablet.
