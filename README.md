@@ -1,1 +1,56 @@
-# 3DZombieGameWeb_Prototype
+# 🧟 3D Zombie Game Web Based Prototype
+
+> Uno sparatutto zombie survival "Twin-Stick" in stile arcade, sviluppato con JavaScript e Three.js.
+
+![Game Status](https://img.shields.io/badge/Status-Playable-green)
+![Tech](https://img.shields.io/badge/Tech-Three.js-white)
+![Support](https://img.shields.io/badge/Support-Desktop%20%7C%20Mobile%20%7C%20Gamepad-blue)
+
+**[🎮 GIOCA ORA (Clicca Qui)](https://TUO_NOME_UTENTE.github.io/NOME_REPO/)**
+
+## 🌟 Caratteristiche
+* **Grafica 3D Arcade:** Visuale isometrica con luci dinamiche, ombre e particellari al neon.
+* **Cross-Platform:** Funziona su PC, Smartphone e Tablet.
+* **Supporto Controller:** Compatibilità nativa con controller PS5/Xbox (Plug & Play).
+* **Gameplay a Round:** Difficoltà progressiva, orde di nemici e punteggi.
+* **Controlli Touch:** Joystick virtuali intelligenti che appaiono automaticamente su mobile.
+
+## 🕹️ Comandi
+
+Il gioco rileva automaticamente il dispositivo di input:
+| **Tastiera & Mouse** | `W` `A` `S` `D` | `Mouse` (Punta e Clicca) | - |
+
+| **Gamepad (PS5/Xbox)** | Levetta **Sinistra** | Levetta **Destra** | `R2` o `X` per sparare |
+
+| **Mobile (Touch)** | Stick Virtuale **SX** | Stick Virtuale **DX** | Spara automatico al 100% inclinazione |
+
+## 🚀 Installazione Locale
+
+Poiché il progetto utilizza Moduli ES6 e texture esterne (CDN Three.js), **non può essere aperto con un semplice doppio click** sul file HTML a causa delle policy di sicurezza CORS dei browser.
+
+### Prerequisiti
+* Un browser moderno (Chrome, Firefox, Edge).
+* Python (o un'estensione come "Live Server" per VS Code).
+
+### Avvio rapido
+1.  Clona il repository:
+    ```bash
+    git clone [https://github.com/alessandrodag0stino/3DZombieGameWeb_Prototype]
+    ```
+
+2.  Avvia un server locale temporaneo.
+    Se hai **Python** installato (già presente su Linux/macOS):
+    ```bash
+    python3 -m http.server
+    ```
+
+3.  Apri il browser all'indirizzo:
+    `http://localhost:8000`
+
+## 🛠️ Tecnologie Usate
+* **HTML5 / CSS3:** Struttura e UI Overlay.
+* **JavaScript (ES6):** Logica di gioco.
+* **Three.js:** Rendering 3D, luci, fisica delle particelle.
+
+## 📝 Licenza
+Progetto open source a scopo didattico. Sentiti libero di forkare e modificare!
