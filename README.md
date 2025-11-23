@@ -13,7 +13,7 @@
 
 Il gioco rileva automaticamente il dispositivo di input:
 
-| **Tastiera & Mouse** | `W` `A` `S` `D` | `Mouse` (Punta e Clicca) | - |
+| **Tastiera & Mouse** | `W` `A` `S` `D` | `Mouse` (Punta e Clicca) |
 
 | **Gamepad (PS5/Xbox)** | Levetta **Sinistra** | Levetta **Destra** | `R2` o `X` per sparare |
 
